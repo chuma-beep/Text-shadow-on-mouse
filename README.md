@@ -1,3 +1,3 @@
 # Text-shadow-on-mouse
 as you hover the shadows will dance around.
-the 
+this challenge focuses on event. 
